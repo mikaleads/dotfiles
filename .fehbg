@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/michael/media/pix/wall/wall-sun.jpg' 
